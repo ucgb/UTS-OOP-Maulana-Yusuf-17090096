@@ -1,0 +1,14 @@
+PENJELASAN
+1. Diagram Use Case
+user bisa bisa melakukan penambahan data,mengubah data,menghapus data,dan lihat data
+2. Diagram Activity
+saat user mau menambahkan data, aplikasi akan menampilkan menu dan apabila kemudian user
+memilih menu tambah data, form tambah data akan muncul,sesudah pengisian data dan
+tampilan kembali ke menu utama/menampilkan menu
+3.Diagram Class
+Kelas Mahasiswa, Operasi dan Data saling berhubungan untuk menjalankan suatu aplikasi
+4. Diagram Sequence
+jika class Mahasiswa ke class-class lainnya sudah benar semua
+dan tidak ada eror maka akan memunculkan menu utama, jika class Mahasiswa
+ada yang eror di bagian class lainnya , maka tidak akan muncul/menampilkan
+menu utama
